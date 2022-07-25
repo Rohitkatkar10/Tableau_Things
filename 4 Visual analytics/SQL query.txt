@@ -1,0 +1,16 @@
+
+SQL custom Query:
+
+SELECT [Location].[Area Code] AS [Area Code (Location)],
+  [factTable].[Area Code] AS [Area Code],
+  
+  [Product].[ProductId] AS [ProductId (Product)],
+  [factTable].[ProductId] AS [ProductId],
+  [Product].[Product] AS [Product],
+  [factTable].[Profit] AS [Profit],
+ 
+  [Location].[State] AS [State]
+FROM ( [factTable]
+  INNER JOIN [Location] ON [factTable].[Area Code] = [Location].[Area Code] )
+  INNER JOIN [Product] ON [factTable].[ProductId] = [Product].[ProductId]
+Where [factTable].[Profit] > 400
