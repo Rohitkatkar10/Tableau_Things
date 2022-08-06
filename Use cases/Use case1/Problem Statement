@@ -1,0 +1,36 @@
+
+Module 3 : Basic Charts in Tableau
+
+1) Text Table: Create a Text Table that displays profit as a function of Product Sub-Category and Year. 
+Represent the data as Percentage of each cell with respect to the entire table. Display the grand Totals
+for Rows and Columns. Explain your interpretation of the data.
+
+ 
+
+
+2) Highlight Table: Create a Highlight Table the displays the Sales, Profit, Discount and Quantity for all
+the Sub-Categories. Highlight the data based on the respective Measure Value. Use different colours for different
+measures to help understand the data easily. 
+
+
+
+3) Pie Chart: Create a Pie Chart showing the Profits of Superstore for different Regions. Compare the pies
+across different Categories. Which Category has the highest Profit? Further, in the Category with highest profit,
+identify the region with highest profit.
+
+
+
+4) Bar Graph: The Regional Sales Managers of Coffee Chain is interested in an analysis of profit by product. 
+They will use this data to discuss the possible pricing changes and product cancellations. Create a Bar graph 
+to help in this analysis.
+Hint: Use Coffee Chain Data. Create a calculated field to check (profit - Budget Profit). Use this field to colour the Bars.
+ 
+
+
+5) Bar Graph: Regional Managers of Coffee Chain want to perform Profit Spotlighting. Indicate the products with profits greater 
+than $10,000 in Green colour, profit below $1000 in Red Colour and rest of the products in Grey Colour. Use Conditional formatting to
+accomplish this.
+
+ 
+
+
