@@ -1,0 +1,26 @@
+
+Module 4 : Organizing and Simplifying Data
+
+1) Hierarchy: Create a Hierarchy to Drill Down through the Location data present in Superstore on
+the view. (Hint: Country -> Region -> State -> City -> Postal Code)
+
+2) Highlighter: Create a Line Chart showing the trends of Monthly Sales and Profits of Superstore, 
+across different Categories. Use Highlighter feature to make the chart readable.
+
+3) Filters:  Create a top five conditional filter that will update the top five Customers by Sales
+based on the region selected in the “Region” filter
+
+4) Filters: Create a text table displaying the list of Top 3 cities by profit in each state.
+Hint:Rank the cities by their profit. Bring “Profit” to the Rows Shelf, and apply Quick Table 
+Calculation “Rank”, this should be “Compute Using -> City”. Change the Sum{Profit) pill to 
+discrete. You will be able to see the cities ranked by profit.
+ 
+Then take the Sum(profit) pill with Rank QTC applied to it, to the filters shelf, and choose
+rank 1,2,3.
+
+
+5) Sets: How many customers of the Top 100 list by Profits are also present in Top 100 list by 
+Sales?
+
+
+ 
