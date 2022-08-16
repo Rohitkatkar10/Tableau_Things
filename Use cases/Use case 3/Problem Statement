@@ -1,0 +1,23 @@
+
+Module 6 : Visual Analytics
+1) Dual Combination Chart: Create a chart to display the Shipping Cost and Profits of superstore
+for different Months. Use Global Superstore.xls data source.
+
+2) Data Interpreter: Using the “AMZN Stock.pdf” input data source, observe the data on the data
+grid before and after using the “Data Interpreter” Option. Explain the differences.
+Hint: Get connected to page 2.
+ 
+3) Bullet Graph: The Product Manager of Coffee Chain needs a report showing all the products and 
+information on which products could meet the “Sales Target (Budget Sales)”. They will use the
+report to check how to improve sales.
+
+4) Tree Map: Create a chart to show Profit and Sales information for distinct products available.
+Use Product Id.	
+
+5) Reference Band: Product Manager of Coffee Chain would like to analyse the product sales
+information. Use reference bands to help him group the data into different categories as “High
+Sales”, “Medium Sales” and “Low Sales” products.
+
+ 
+
+
